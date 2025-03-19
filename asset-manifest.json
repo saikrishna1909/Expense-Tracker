@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/saikrishna1909/Expense-Tracker.git/static/css/main.e0121220.css",
-    "main.js": "/saikrishna1909/Expense-Tracker.git/static/js/main.14e623e7.js",
-    "index.html": "/saikrishna1909/Expense-Tracker.git/index.html",
-    "main.e0121220.css.map": "/saikrishna1909/Expense-Tracker.git/static/css/main.e0121220.css.map",
-    "main.14e623e7.js.map": "/saikrishna1909/Expense-Tracker.git/static/js/main.14e623e7.js.map"
+    "main.css": "/Expense-Tracker/static/css/main.e0121220.css",
+    "main.js": "/Expense-Tracker/static/js/main.14e623e7.js",
+    "index.html": "/Expense-Tracker/index.html",
+    "main.e0121220.css.map": "/Expense-Tracker/static/css/main.e0121220.css.map",
+    "main.14e623e7.js.map": "/Expense-Tracker/static/js/main.14e623e7.js.map"
   },
   "entrypoints": [
     "static/css/main.e0121220.css",

@@ -141,6 +141,6 @@ We welcome contributions to this project. If you want to contribute, please foll
 4. Submit a pull request with a description of your changes.
 
 ## Contact
-- Email: your-email@example.com
-- GitHub: [your-github](https://github.com/your-username)
+- Email: kondasaikrishna13@gmail.com
+- GitHub: https://github.com/saikrishna1909
 
